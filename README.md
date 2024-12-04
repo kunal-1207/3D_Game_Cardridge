@@ -28,15 +28,16 @@ To see the 3D Game Boy cartridge in action, simply open the index.html file in y
 ## Installation
 
 - Clone this repository to your local machine:
-git clone https://github.com/kunal-1207/3D_Game_Cardridge.git
+
+       git clone https://github.com/kunal-1207/3D_Game_Cardridge.git
 
 - Navigate to the project directory:
    
-   cd 3D_Game_Cardridge
+      cd 3D_Game_Cardridge
 
 - Open index.html in your browser:
    
-   open index.html
+      open index.html
   
 ## Learn More 
 
